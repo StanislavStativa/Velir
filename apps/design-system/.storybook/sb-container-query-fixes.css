@@ -1,0 +1,5 @@
+/* Quick and dirty fix for collapsing @containers inside flex items in Storybook in "centered" mode.  Components will not actually center though.  */
+
+.sb-main-centered #storybook-root:has(>[class*="@container"]) {
+  flex-grow:1;
+}

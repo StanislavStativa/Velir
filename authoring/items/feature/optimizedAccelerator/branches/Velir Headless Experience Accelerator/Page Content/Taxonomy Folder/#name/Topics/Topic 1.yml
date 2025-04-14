@@ -1,0 +1,26 @@
+﻿---
+ID: "564b709e-0670-44a1-b81d-6b78f36ad15a"
+Parent: "0d3fd0c2-994b-4d76-8153-52a46035fd10"
+Template: "7bcc6b50-ea9e-457d-b232-c5cee2090b9f"
+Path: /sitecore/templates/Branches/Feature/Velir Headless Experience Accelerator/Page Content/Taxonomy Folder/$name/Topics/Topic 1
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250303T215536Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "74e57d69-e805-4568-abdb-17e03727c605"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "bcc4ba37-f816-482f-bd37-f4ac58f2f06f"
+      Hint: titleRequired
+      Value: Topic 1
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250303T215610Z

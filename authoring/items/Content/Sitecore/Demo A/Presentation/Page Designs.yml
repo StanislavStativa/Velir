@@ -1,0 +1,38 @@
+﻿---
+ID: "dafc0028-c727-4154-b217-1f38bf8f4b6c"
+Parent: "ad696618-bbb6-4b36-acc7-e9e475753fee"
+Template: "bc6c3d0f-4506-4527-809e-c6af8841f12c"
+Path: /sitecore/content/Sitecore/Demo A/Presentation/Page Designs
+SharedFields:
+- ID: "ba1f60d6-3deb-40cc-bb61-eec772279ee1"
+  Hint: TemplatesMapping
+  Value: "%7b4ACCF644-A506-421F-B60F-A05E5C6196B4%7d%3d%257BFF24639B-18D2-4F00-A58A-B8C9DB428898%257D"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{2EA756FA-AED6-4599-83B7-36FEFE229B31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250131T181115Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3041f68a-9257-4d5e-9386-93202a8cee55"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250205T192713Z

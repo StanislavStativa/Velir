@@ -1,0 +1,39 @@
+﻿---
+ID: "68ef2335-d5da-49b2-bde4-86bcaddadd29"
+Parent: "063e1d5d-d34e-437e-b534-1e4a95bea242"
+Template: "83746e54-66fe-4fd4-b79d-ff3fd4acd903"
+Path: /sitecore/templates/Branches/Foundation/Velir Headless Experience Accelerator/Presentation/Presentation Enumerations/$name/Presentation/Orientation/imageRight
+SharedFields:
+- ID: "529025a2-640b-4c4d-97f5-b5ba488b5a3c"
+  Hint: Value
+  Value: imageRight
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Image Right
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240320T172039Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "366b858c-d673-49c3-8e9e-1c518b11aac6"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240321T131156Z

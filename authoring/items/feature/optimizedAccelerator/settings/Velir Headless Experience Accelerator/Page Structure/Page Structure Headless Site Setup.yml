@@ -1,0 +1,42 @@
+﻿---
+ID: "2570b928-425d-4773-8d5a-fb751328b290"
+Parent: "ae400a56-14f5-4e77-85cd-b15563fee3f2"
+Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
+Path: /sitecore/system/Settings/Feature/Velir Headless Experience Accelerator/Page Structure/Page Structure Headless Site Setup
+SharedFields:
+- ID: "40deee2f-7595-40bd-b2c9-51f9e2346100"
+  Hint: Dependencies
+  Value: "{24EC97FA-F22A-404E-BC39-9B0673D46271}"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Velir - Page Structure Headless Site Setup"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240306T152136Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "17ea5b87-5483-4326-ac4f-fab2db9b3fc2"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\robbert.hock@velir.com
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: "Velir - Page Structure"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240411T092705Z

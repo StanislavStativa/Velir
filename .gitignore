@@ -1,0 +1,131 @@
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# Dependencies
+node_modules
+.pnp
+.pnp.js
+
+# Local env files
+.env
+.env*.local
+!.env.example
+
+# Testing
+coverage
+
+# Turbo
+.turbo
+
+# Vercel
+.vercel
+
+# Build Outputs
+.next/
+out/
+build
+dist
+
+
+# Debug
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Misc
+.DS_Store
+*.pem
+
+# Typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# See https://help.github.com/ignore-files/ for more about ignoring files.
+
+# testing
+/coverage
+
+# next.js
+/.next*/
+/out/
+
+# graphql code generation
+/.generated
+*.graphql.d.ts
+*.graphqls.d.ts
+
+# misc
+.DS_Store
+
+# Log files
+*.log*
+
+# sitecore
+scjssconfig.json
+*.deploysecret.config
+
+# apps files
+apps/*/node_modules
+!apps/*/.env
+apps/*/.env.*
+apps/*/.turbo
+apps/*/coverage
+apps/*/.vercel
+apps/*/.next
+apps/*/storybook-static
+apps/design-system/storybook-static
+packages/*/node_modules
+packages/*/.env
+packages/*/.env*
+packages/*/.turbo
+packages/*/coverage
+packages/*/.vercel
+packages/*/.next
+packages/*/coverage
+apps/*/public/themes
+
+
+# may contain OAuth secrets, do not commit
+.sitecore/user.json
+
+# NuGet cache for Sitecore CLI
+.sitecore/package-cache/
+
+# Ephemeral index caches used by serialization, do not commit
+.scindex
+
+# Don't commit packages
+*.itempackage
+*.sicpackage
+
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+[Tt]est[Rr]esult*
+.vs/
+.vscode
+/docker-compose.local.yml
+*.code-workspace

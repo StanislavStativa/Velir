@@ -1,0 +1,36 @@
+﻿---
+ID: "913df68d-6675-40c6-8b64-fbb9f5ec6550"
+Parent: "91800eb9-ca93-481a-a0a0-202bb5fb63d6"
+Template: "efd96479-7bf2-4be1-a08a-b01e59f92cdc"
+Path: /sitecore/content/Sitecore/Demo A/Data/Global Headers/Global Header
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250131T181609Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "98f68c93-928a-4ed3-88cb-5ae1a05dcdad"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250205T192116Z
+    - ID: "f073d52d-022c-4560-90c2-71fc674cf8bf"
+      Hint: primaryNavigationLinks
+      Value: |
+        {5E2EE404-D626-4173-9E3C-F3792442EDB0}
+        {2D319278-C4C4-4808-ABE9-CC48633D28E3}

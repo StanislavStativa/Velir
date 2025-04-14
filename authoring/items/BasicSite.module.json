@@ -1,0 +1,29 @@
+{
+  "namespace": "Project.BasicSite",
+  "description": "Serializes the Project Basic Site development artifacts",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "templates",
+        "path": "/sitecore/templates/Project/Basic Site",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "renderings",
+        "path": "/sitecore/layout/Renderings/Project/Basic Site",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "phsettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Basic Site",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  },
+  "references": [
+    "Feature.*"
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "namespace": "Feature.OptimizedAccelerator",
+  "description": "Serializes the Feature Velir Headless Experience Accelerator artifacts",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/templates",
+        "path": "/sitecore/templates/Feature/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/branches",
+        "path": "/sitecore/templates/Branches/Feature/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/renderings",
+        "path": "/sitecore/layout/Renderings/Feature/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/phsettings",
+        "path": "/sitecore/layout/Placeholder Settings/Feature/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/mediaLibrary",
+        "path": "/sitecore/media library/Feature/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/settings",
+        "path": "/sitecore/system/Settings/Feature/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/powershell",
+        "path": "/sitecore/system/Modules/PowerShell/Script Library/JSS SXA/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "feature/optimizedAccelerator/buttons",
+        "path": "/sitecore/content/Applications/WebEdit/Custom Experience Buttons/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants",
+        "database": "core"
+      }
+    ]
+  },
+  "references": [
+    "Foundation.*"
+  ]
+}

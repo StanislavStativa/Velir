@@ -1,0 +1,31 @@
+﻿---
+ID: "59e2116a-74b2-4673-af19-88e2e261ceb6"
+Parent: "a9e2e426-1545-44f1-879b-2d1a7de3bc35"
+Template: "fec8514d-5940-4aca-bef9-112838130a85"
+Path: /sitecore/content/Sitecore/Demo B/Data/Global Footers
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250131T180722Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "76aa6028-4637-4a01-a67b-2a7f89922c50"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250131T180722Z

@@ -1,0 +1,94 @@
+// Add to .vscode/settings.json to allow comments in this file:
+// "files.associations": {
+//   "turbo.json": "jsonc"
+// },
+{
+  "$schema": "https://turbo.build/schema.json",
+  "ui": "tui",
+  "globalEnv": ["NEXT_PUBLIC_THEME", "*"],
+  "tasks": {
+    "bootstrap": {
+      //"cache": false,
+      "dependsOn": [],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "graphql:update": {
+      //"cache": false,
+      "dependsOn": [],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "start": {
+      //"cache": false,
+      "dependsOn": ["bootstrap"],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "start:connected": {
+      //"cache": false,
+      "dependsOn": [],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "start:production": {
+      //"cache": false,
+      "dependsOn": [],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "start:watch-components": {
+      //"cache": false,
+      "dependsOn": [],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "build-storybook": {
+      //"cache": false,
+      "dependsOn": ["^build-storybook"],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+
+    "build": {
+      //"cache": false,
+      "dependsOn": ["^build"],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "next:build": {
+      //"cache": false,
+      "dependsOn": ["^build"],
+      "inputs": ["$TURBO_DEFAULT$", ".env*"],
+      "outputs": [".next/**", "!.next/cache/**"]
+    },
+    "next:dev": {},
+    "next:start": {},
+    "tailwind:build": {
+      //"cache": false,
+      "dependsOn": ["^build"],
+      "outputs": ["packages/tailwind-config/themes/**", "apps/*/public/**"],
+      "env": ["NODE_ENV=production"]
+    },
+
+    "tailwind:dev": {
+      "cache": false,
+      "dependsOn": [],
+
+      "env": ["NODE_ENV=development"]
+    },
+
+    "lint": {
+      "dependsOn": ["^lint"]
+    },
+    "lint:fix": {
+      "dependsOn": ["^lint"]
+    },
+    "jss": {},
+    "scaffold": {},
+    "dev": {
+      "cache": true,
+      "persistent": true
+    }
+  }
+}

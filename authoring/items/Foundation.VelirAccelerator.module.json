@@ -1,0 +1,32 @@
+{
+  "namespace": "Foundation.OptimizedAccelerator",
+  "description": "Serializes the Foundation Velir Headless Experience Accelerator artifacts",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "foundation/optimizedAccelerator/templates",
+        "path": "/sitecore/templates/Foundation/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "foundation/optimizedAccelerator/branches",
+        "path": "/sitecore/templates/Branches/Foundation/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "foundation/optimizedAccelerator/settings",
+        "path": "/sitecore/system/Settings/Foundation/Velir Headless Experience Accelerator",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "foundation/optimizedAccelerator/siteTheme",
+        "path": "/sitecore/templates/Foundation/JSS Experience Accelerator/Multisite/Site/Settings/Theme",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  }
+}

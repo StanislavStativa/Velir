@@ -1,0 +1,39 @@
+// @import "base";
+@import "components";
+// @import "variants";
+// @import "app";
+
+//from _app.scss
+.xa-variable {
+    border: 0px;
+    padding: 1px;
+    margin: 0px;
+    background-color: #ebebe4;
+    color: #545454;
+    user-select: none;
+    pointer-events: none;
+  }
+  
+  //Navigation Bar fix
+  #breadcrumbMenuSubcontrol_context_menu * {
+    box-sizing: initial;
+  }
+  
+  //End navigation bar fix
+  .menu-mobile-navigate {
+    display: none;
+  }
+  
+  .sc-jss-empty-placeholder {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  
+  .sc-jss-placeholder-error {
+    background: #ff0000;
+    outline: 5px solid #e36565;
+    padding: 10px;
+    color:#fff;
+    max-width: 500px;
+  }

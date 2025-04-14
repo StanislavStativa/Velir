@@ -1,0 +1,31 @@
+﻿---
+ID: "22e2dcb4-2a43-471a-be43-8b5e0bd9f7db"
+Parent: "802697f6-ac61-44a9-aaeb-13300c789e31"
+Template: "d27e5ad7-fdb1-4359-8fba-48855eeb7082"
+Path: /sitecore/content/Sitecore/Demo A/Data/Video
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250131T181151Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fbe7c032-c677-4ace-9497-b5543e873e9e"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250131T181151Z

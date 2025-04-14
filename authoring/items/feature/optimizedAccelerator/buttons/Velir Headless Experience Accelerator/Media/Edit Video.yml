@@ -1,0 +1,152 @@
+﻿---
+ID: "bf4991ea-944f-4093-9b24-3d0f529d33fa"
+Parent: "7e459c9c-b2fd-4951-b4f9-c8c5abfe373e"
+Template: "1ab4f9ad-b004-413c-8924-3e07143a614b"
+Path: /sitecore/content/Applications/WebEdit/Custom Experience Buttons/Velir Headless Experience Accelerator/Media/Edit Video
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/painting_landscape.png
+- ID: "4431914a-c40b-437c-8add-d2ed12cc8cc3"
+  Hint: Icon
+  Value: office/32x32/clapperboard.png
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 1000
+- ID: "cf738220-908d-4c3f-9482-32e625daf13c"
+  Hint: Fields
+  Value: title|video|image|caption
+Languages:
+- Language: "de-DE"
+  Fields:
+  - ID: "108d3a63-baaa-4560-86d8-3a112ed84717"
+    Hint: Header
+    Value: Bild bearbeiten
+  - ID: "5f0812af-d370-4292-afee-f26a39b7406d"
+    Hint: Tooltip
+    Value: Bildeigenschaften bearbeiten
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: Bild bearbeiten
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240325T185215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "988099be-1ee5-4a9d-96b2-b86025a3c66d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240325T185215Z
+- Language: en
+  Fields:
+  - ID: "108d3a63-baaa-4560-86d8-3a112ed84717"
+    Hint: Header
+    Value: Edit Video
+  - ID: "5f0812af-d370-4292-afee-f26a39b7406d"
+    Hint: Tooltip
+    Value: Edit video properties
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20130107T214900Z
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87e7964e-e69b-4659-af34-4ec47097b78d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240328T015255Z
+- Language: "ja-JP"
+  Fields:
+  - ID: "108d3a63-baaa-4560-86d8-3a112ed84717"
+    Hint: Header
+    Value: 画像を編集
+  - ID: "5f0812af-d370-4292-afee-f26a39b7406d"
+    Hint: Tooltip
+    Value: 画像プロパティを編集します
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 画像を編集
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240325T185215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "988099be-1ee5-4a9d-96b2-b86025a3c66d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240325T185215Z
+- Language: "zh-CN"
+  Fields:
+  - ID: "108d3a63-baaa-4560-86d8-3a112ed84717"
+    Hint: Header
+    Value: 编辑图片
+  - ID: "5f0812af-d370-4292-afee-f26a39b7406d"
+    Hint: Tooltip
+    Value: 编辑图片属性
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: 编辑图片
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240325T185215Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\Admin
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\Admin
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "988099be-1ee5-4a9d-96b2-b86025a3c66d"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\Admin
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240325T185215Z

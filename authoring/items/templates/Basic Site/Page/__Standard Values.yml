@@ -1,0 +1,40 @@
+﻿---
+ID: "0a1b7914-575f-4132-823a-8b08e3c93683"
+Parent: "24af593a-d3a1-4247-98f4-d4585f4ad64e"
+Template: "24af593a-d3a1-4247-98f4-d4585f4ad64e"
+Path: /sitecore/templates/Project/Basic Site/Page/__Standard Values
+SharedFields:
+- ID: "1172f251-dad4-4efb-a329-0c63500e4f1e"
+  Hint: __Masters
+  Value: |
+    {24AF593A-D3A1-4247-98F4-D4585F4AD64E}
+    {C14B6289-8AC2-439C-9E5B-40DE9F820C3F}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "17e771f7-79b0-45a1-9ee5-732b9c46a1c6"
+      Hint: Title
+      Value: $name
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20231124T143958Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\corey.caplette@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\corey.caplette@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "d3b035f6-f89f-466c-8d61-770b24bebdd4"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\corey.caplette@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20231124T144004Z

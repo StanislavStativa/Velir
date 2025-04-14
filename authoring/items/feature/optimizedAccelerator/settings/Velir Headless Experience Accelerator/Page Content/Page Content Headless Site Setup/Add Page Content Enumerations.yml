@@ -1,0 +1,38 @@
+﻿---
+ID: "9f6f53d1-b829-4d6b-b37c-ddac929fd64b"
+Parent: "cd26950f-938f-4686-ad04-e73bdb92426a"
+Template: "bc9bb684-36df-4285-888b-d8b4d87b10de"
+Path: /sitecore/system/Settings/Feature/Velir Headless Experience Accelerator/Page Content/Page Content Headless Site Setup/Add Page Content Enumerations
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 300
+- ID: "c0a5bd91-e658-46ce-b631-77ce337d8e6e"
+  Hint: Script
+  Value: "{D7D70A4C-B295-435B-933E-4EAB8D6B9D1B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240920T142700Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1787c172-5530-4f90-921e-48d4c6cea0a7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20241003T140130Z

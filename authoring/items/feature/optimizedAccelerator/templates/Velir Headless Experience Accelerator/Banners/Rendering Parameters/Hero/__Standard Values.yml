@@ -1,0 +1,23 @@
+﻿---
+ID: "1c304bb3-e759-472c-8567-3d5771a4539c"
+Parent: "a29ab174-c909-48d1-8830-2bf44ab3eaeb"
+Template: "a29ab174-c909-48d1-8830-2bf44ab3eaeb"
+Path: /sitecore/templates/Feature/Velir Headless Experience Accelerator/Banners/Rendering Parameters/Hero/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20211020T140508Z
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "38e242b9-3e96-45fa-895c-9e0647a8ac0b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T124447Z

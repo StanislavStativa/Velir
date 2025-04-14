@@ -1,0 +1,38 @@
+﻿---
+ID: "31dc2b59-128d-49e3-8417-77fbdb7dd4ae"
+Parent: "89d0268d-39cd-4e1d-904a-b4b3aab9a0f1"
+Template: "f036b5e0-37fb-4537-9d36-ef84e5bd41b7"
+Path: /sitecore/system/Settings/Feature/Velir Headless Experience Accelerator/Navigation/Navigation Headless Site Collection Setup
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Velir - Navigation Headless Site Collection Setup"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240327T184249Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "87b1208b-f29d-4fad-8da4-531f0969c3d7"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\robbert.hock@velir.com
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: "Velir - Navigation"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240411T092619Z

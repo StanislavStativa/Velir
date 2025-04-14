@@ -1,0 +1,62 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Sitecore",
+  "items": {
+    "includes": [
+      {
+        "name": "tenantRoot",
+        "path": "/sitecore/content/Sitecore",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      },
+      {
+        "name": "Demo A",
+        "path": "/sitecore/content/Sitecore/Demo A",
+        "rules": [
+          {
+            "path": "/home",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Dictionary",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Presentation",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Settings/Site Grouping",
+            "scope": "ItemAndDescendants",
+            "allowedPushOperations": "CreateOnly"
+          },
+          {
+            "path": "/Settings",
+            "scope": "SingleItem",
+            "allowedPushOperations": "CreateAndUpdate"
+          },
+          {
+            "path": "*",
+            "scope": "Ignored"
+          }
+        ]
+      },
+      {
+        "name": "placeholderSettings",
+        "path": "/sitecore/content/Sitecore/Demo A/Presentation/Placeholder Settings",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      },
+      {
+        "name": "renderingVariants",
+        "path": "/sitecore/content/Sitecore/Demo A/Presentation/Headless Variants",
+        "scope": "ItemAndDescendants",
+        "allowedPushOperations": "CreateUpdateAndDelete"
+      }
+    ]
+  },
+  "references": ["Feature.*"]
+}

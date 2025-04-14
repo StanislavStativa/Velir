@@ -1,0 +1,35 @@
+﻿---
+ID: "f984e2d3-31e6-4134-9181-97325e700140"
+Parent: "582e9f3d-5954-4d0d-84e7-a03ef1078642"
+Template: "83746e54-66fe-4fd4-b79d-ff3fd4acd903"
+Path: /sitecore/content/Sitecore/Demo B/Presentation/Enumerations/Promos/Number of Columns/6
+SharedFields:
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{54690B41-6F41-4C9F-ACD0-A45DDF8EEA60}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250131T180736Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "f2b07a54-52ac-4b32-abb7-112eb3acbf3b"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250131T180736Z

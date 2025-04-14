@@ -1,0 +1,38 @@
+﻿---
+ID: "781eb2b8-cb26-4e66-b4c0-0b4634e34057"
+Parent: "3fe023cb-98db-4ecd-888f-199fd931650a"
+Template: "407d4269-db05-473b-90ed-b0d96574ba76"
+Path: /sitecore/content/Sitecore/Demo A/Data/Global Footers/Global Footer
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250205T191925Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "fe573ef7-7780-49ec-9929-d94013c7e164"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d03f6255-b87d-4205-b10d-f3c1ee56aa14"
+      Hint: copyrightText
+      Value: |
+        <div class="ck-content"><p>@ 2024 Flow. All rights reserved.</p></div>
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250205T192314Z

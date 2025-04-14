@@ -1,0 +1,38 @@
+﻿---
+ID: "64b02861-7afa-47f4-af6e-d2b591ec232a"
+Parent: "cd06854b-68e1-4e74-b4cc-e638ed2bdb68"
+Template: "cfd30fc4-07fa-471e-9f85-3a1bf425c718"
+Path: /sitecore/content/Sitecore/Demo A/Data/Global Footers/Column Two/Company
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "001dd393-96c5-490b-924a-b0f25cd9efd8"
+      Hint: __Lock
+      Value: <r />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250205T210537Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "eec7e2d6-a827-4203-9e02-58263b56ce31"
+    - ID: "969b132e-3dc2-4526-8f8d-61e3ea742df6"
+      Hint: link
+      Value: |
+        <link linktype="internal" id="{6B210487-0AAC-4FEB-A8AF-9D78AB573C0F}" anchor="" querystring="" target="" class="" text="Company" title=""/>
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250205T211039Z

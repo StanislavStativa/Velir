@@ -1,0 +1,58 @@
+{
+  "name": "velir-xmcloud-accelerator",
+  "version": "1.4.2",
+  "private": true,
+  "license": "MIT",
+  "config": {
+    "appName": "demo",
+    "rootPlaceholders": [
+      "jss-main"
+    ],
+    "sitecoreConfigPath": "/App_Config/Include/zzz",
+    "graphQLEndpointPath": "/sitecore/api/graph/edge",
+    "language": "en"
+  },
+  "scripts": {
+    "start": "turbo bootstrap && turbo next:dev start:watch-components watch:tailwind --parallel",
+    "start:connected": "turbo start:connected",
+    "bootstrap": "turbo bootstrap",
+    "next:build": "turbo next:build",
+    "next:dev": "turbo next:dev",
+    "start:watch-components": "turbo start:watch-components",
+    "build": "turbo build",
+    "build-storybook": "turbo build-storybook && turbo tailwind:build",
+    "dev": "turbo dev tailwind:dev",
+    "lint": "turbo lint",
+    "lint:fix": "turbo lint:fix",
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "create-theme": "npm run --workspace apps/demo create-theme",
+    "transform-tokens": "npx apex-dx style-tokens -i apps/demo/tailwind-config/themes/tokens.json -o apps/demo/tailwind-config/themes -ci true -skip true",
+    "create-component": "npm run --workspace apps/demo scaffold",
+    "jira-component": "npm run --workspace apps/demo jira-generate",
+    "tailwind:dev": "turbo tailwind:dev",
+    "tailwind:build": "turbo tailwind:build"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3.3.0",
+    "@eslint/js": "^9.21.0",
+    "eslint": "^8.56.1",
+    "eslint-plugin-jsx-a11y": "^6.10.2",
+    "eslint-plugin-react-hooks": "^5.2.0",
+    "postcss-import": "^16.1.0",
+    "postcss-nesting": "^13.0.1",
+    "prettier": "^3.3.3",
+    "tailwindcss-animate": "^1.0.7",
+    "turbo": "2.1.1"
+  },
+  "engines": {
+    "node": ">=18"
+  },
+  "packageManager": "npm@10.5.2",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "volta": {
+    "node": "22.13.1"
+  }
+}

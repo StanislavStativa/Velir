@@ -1,0 +1,14 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Configuration",
+  "items": {
+    "includes": [
+      {
+        "name": "bucketSettings",
+        "path": "/sitecore/system/Settings/Buckets/Item Buckets Settings",
+        "scope": "SingleItem",
+        "allowedPushOperations": "CreateAndUpdate"
+      }
+    ]
+  }
+}

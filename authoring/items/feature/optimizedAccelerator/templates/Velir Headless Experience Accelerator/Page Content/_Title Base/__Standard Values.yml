@@ -1,0 +1,43 @@
+﻿---
+ID: "37da1ada-75ff-4ad8-b180-67e3b7552d05"
+Parent: "4b479b7e-b931-4bf3-8de6-b047d55a45c6"
+Template: "4b479b7e-b931-4bf3-8de6-b047d55a45c6"
+Path: /sitecore/templates/Feature/Velir Headless Experience Accelerator/Page Content/_Title Base/__Standard Values
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250210T153945Z
+    - ID: "27cd428b-f652-4534-b76f-33f64b742659"
+      Hint: pageShortTitle
+      Value: $name
+    - ID: "5272817a-75b7-4554-a5ef-2cc4930034d2"
+      Hint: pageSubtitle
+      Value: $name
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\chris.sulham@velir.com
+    - ID: "5c01b675-9b56-4d6b-aee4-0ecb1a0021f6"
+      Hint: pageTitle
+      Value: $name
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\chris.sulham@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "8ed6880e-9301-41bd-8906-56fe5f4ef5cf"
+    - ID: "b7979eed-6bcb-4117-80bc-4bcc6aab12a9"
+      Hint: pageHeaderTitle
+      Value: $name
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250303T210203Z

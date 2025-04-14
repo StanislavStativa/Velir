@@ -1,0 +1,42 @@
+﻿---
+ID: "a1610b34-033b-4ba6-8cd0-e42bf296d040"
+Parent: "3adbff0f-d997-464b-80e9-3a98c0fed289"
+Template: "bed31d6f-d968-45a9-b54e-12d7f977d861"
+Path: /sitecore/system/Settings/Foundation/Velir Headless Experience Accelerator/Presentation/Presentation Headless Site Setup
+SharedFields:
+- ID: "06d2c562-9229-4779-8807-e2a5fd2990d4"
+  Hint: IsSystemModule
+  Value: 1
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Velir - Presentation Headless Site Setup"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240320T162133Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "897ce935-96e6-44ac-b028-53fa3ba4c013"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\robbert.hock@velir.com
+    - ID: "c202067e-7fab-4606-afb4-e76df2185ddc"
+      Hint: Name
+      Value: "Velir - Presentation"
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240411T092407Z

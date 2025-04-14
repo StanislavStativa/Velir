@@ -1,0 +1,15 @@
+{
+  "$schema": "../../.sitecore/schemas/ModuleFile.schema.json",
+  "namespace": "Project.Sitecore.Content",
+  "items": {
+    "includes": [
+      {
+        "name": "Taxonomy",
+        "path": "/sitecore/content/Sitecore/Demo A/Data/Taxonomy",
+        "scope": "ItemAndChildren",
+        "allowedPushOperations": "CreateOnly"
+      }
+    ]
+  },
+  "references": ["Project.Sitecore"]
+}

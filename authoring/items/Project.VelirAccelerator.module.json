@@ -1,0 +1,35 @@
+{
+  "namespace": "Project.OptimizedAccelerator",
+  "description": "Serializes the Project Velir Headless Experience Accelerator artifacts",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "project/optimizedAccelerator/templates",
+        "path": "/sitecore/templates/Project/Velir",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "project/optimizedAccelerator/branches",
+        "path": "/sitecore/templates/Branches/Project/Velir",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "project/optimizedAccelerator/phsettings",
+        "path": "/sitecore/layout/Placeholder Settings/Project/Velir",
+        "scope": "itemAndDescendants"
+      },
+      {
+        "allowedPushOperations": "createUpdateAndDelete",
+        "name": "project/optimizedAccelerator/renderings",
+        "path": "/sitecore/layout/Renderings/Project/Velir",
+        "scope": "itemAndDescendants"
+      }
+    ]
+  },
+  "references": [
+    "Feature.*"
+  ]
+}

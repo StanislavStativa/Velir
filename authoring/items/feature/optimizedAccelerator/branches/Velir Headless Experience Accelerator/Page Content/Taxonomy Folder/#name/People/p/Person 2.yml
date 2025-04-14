@@ -1,0 +1,29 @@
+﻿---
+ID: "b85702bd-c3df-4eca-99bd-8fc9561044a5"
+Parent: "d15801aa-d877-4f9d-84fc-2c84f39c3e13"
+Template: "c47dfaeb-390a-4092-8716-39899e70e125"
+Path: /sitecore/templates/Branches/Feature/Velir Headless Experience Accelerator/Page Content/Taxonomy Folder/$name/People/p/Person 2
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250303T225921Z
+    - ID: "526cd4c6-ed24-4d61-8f43-a9b83e47dd8f"
+      Hint: personLastName
+      Value: 2
+    - ID: "89322e24-5329-4375-9b46-5b0390850bb4"
+      Hint: personFirstName
+      Value: Person
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "0c7639c5-6669-4706-b1e8-1ceeb3fb0662"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250303T225942Z

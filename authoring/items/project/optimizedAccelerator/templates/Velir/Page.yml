@@ -1,0 +1,53 @@
+﻿---
+ID: "ac9de9be-8e86-4147-8fbc-739d5560408b"
+Parent: "b67a0c23-7cb7-449e-8262-7b0bc03f5629"
+Template: "ab86861a-6030-46c5-b394-e8f99e8b87db"
+Path: /sitecore/templates/Project/Velir/Page
+SharedFields:
+- ID: "06d5295c-ed2f-4a54-9bf2-26228d113318"
+  Hint: __Icon
+  Value: Office/32x32/document_text.png
+- ID: "12c33f3f-86c5-43a5-aeb4-5598cec45116"
+  Hint: __Base template
+  Value: |
+    {47151711-26CA-434E-8132-D3E0B7D26683}
+    {4B479B7E-B931-4BF3-8DE6-B047D55A45C6}
+    {281CCAA1-C247-4A28-819F-08293AA67050}
+    {6650FB34-7EA1-4245-A919-5CC0F002A6D7}
+    {4414A1F9-826A-4647-8DF4-ED6A95E64C43}
+    {DE1AEB2D-0CBC-490B-8B25-BF46DE20116C}
+    {F43E275A-48D0-4A45-8313-862F81BE33CE}
+    {2CF67CDE-EA27-425D-95D1-1DA80A507ABD}
+    {E8216A0D-DE33-492C-94EC-A0A06AEE10E7}
+- ID: "dbbbeca1-21c7-4906-9dd2-493c1efa59a2"
+  Hint: __Shared revision
+  Value: "73e5ffec-62f1-4d1c-9ea2-b31e6b38465d"
+- ID: "f7d48a55-2158-4f02-9356-756654404f73"
+  Hint: __Standard values
+  Value: "{173B58FD-9EE0-4991-AD75-B7ADD633D80D}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240304T202210Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "a9460bcd-6b23-479b-8c65-808bfdde19ea"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\minyie.diaz@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250407T150458Z

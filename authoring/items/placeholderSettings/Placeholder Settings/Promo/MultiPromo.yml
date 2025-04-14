@@ -1,0 +1,41 @@
+﻿---
+ID: "7f61d48e-0e86-43f7-bc06-dd1a07ee7437"
+Parent: "64ffcd1a-d418-48ae-a0b3-36c042d66ad4"
+Template: "1ca0304b-e5b6-4810-8211-54426f1752c2"
+Path: /sitecore/content/Sitecore/Demo A/Presentation/Placeholder Settings/Promo/MultiPromo
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "container-multi-promo-{*}"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: "{B1B389C3-0786-439F-B0CE-95E576CB4D45}"
+- ID: "f6d8a61c-2f84-4401-bd24-52d2068172bc"
+  Hint: __Originator
+  Value: "{9A835C72-494B-4214-B6C2-0F9E88DD1C31}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250131T181158Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "3216545f-1997-4254-ab26-09e79b0691f9"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250131T181158Z

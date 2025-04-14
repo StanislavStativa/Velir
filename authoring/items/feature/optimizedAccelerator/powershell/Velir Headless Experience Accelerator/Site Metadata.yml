@@ -1,0 +1,31 @@
+﻿---
+ID: "e802bf80-b1c5-425e-9dcc-90a5e8a2fa73"
+Parent: "eabdfeab-d789-4ea5-b6b7-7678a79a7c63"
+Template: "6d82fcd8-c379-443c-97a9-c6423c71e7d5"
+Path: /sitecore/system/Modules/PowerShell/Script Library/JSS SXA/Velir Headless Experience Accelerator/Site Metadata
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240320T172801Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "c991684c-995c-4005-b355-cf1b32266ded"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240327T015451Z

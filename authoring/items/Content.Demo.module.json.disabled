@@ -1,0 +1,17 @@
+{
+  "namespace": "Content.Demo",
+  "description": "Serializes the Content Tree for the demo sites",
+  "items": {
+    "includes": [
+      {
+        "allowedPushOperations": "createOnly",
+        "name": "Content",
+        "path": "/sitecore/content/Sitecore/",
+        "scope": "itemAndDescendants"
+      },
+    ]
+  },
+  "references": [
+    "Project.*"
+  ]
+}

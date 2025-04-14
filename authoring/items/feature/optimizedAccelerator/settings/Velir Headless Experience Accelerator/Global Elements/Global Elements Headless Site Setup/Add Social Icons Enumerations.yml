@@ -1,0 +1,38 @@
+﻿---
+ID: "dcf07474-fc95-49a9-b4d7-9ad18ca15986"
+Parent: "6158c02d-8595-4de1-9d1a-199191123e9b"
+Template: "bc9bb684-36df-4285-888b-d8b4d87b10de"
+Path: /sitecore/system/Settings/Feature/Velir Headless Experience Accelerator/Global Elements/Global Elements Headless Site Setup/Add Social Icons Enumerations
+SharedFields:
+- ID: "ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e"
+  Hint: __Sortorder
+  Value: 400
+- ID: "c0a5bd91-e658-46ce-b631-77ce337d8e6e"
+  Hint: Script
+  Value: "{E91E3DC1-EEB5-4DCC-8BD6-5223EE79D27B}"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20240320T182551Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\kevin.mazzoni@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "b7a57422-46fb-4c20-aa11-3a4b47e4ace3"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\robbert.hock@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20240405T131134Z

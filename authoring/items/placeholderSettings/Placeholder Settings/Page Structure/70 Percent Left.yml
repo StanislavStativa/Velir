@@ -1,0 +1,55 @@
+﻿---
+ID: "1c117b06-c01e-43fc-8f92-d523b1f4d775"
+Parent: "1fea9d82-7beb-49a1-b205-0e7431c85c89"
+Template: "d2a6884c-04d5-4089-a64e-d27ca9d68d4c"
+Path: /sitecore/content/Sitecore/Demo A/Presentation/Placeholder Settings/Page Structure/70 Percent Left
+SharedFields:
+- ID: "7256bdab-1fd2-49dd-b205-cb4873d2917c"
+  Hint: Placeholder Key
+  Value: "container-seventy-left-{*}"
+- ID: "e391b526-d0c5-439d-803e-17512eae6222"
+  Hint: Allowed Controls
+  Value: |
+    {D806DDF7-39A7-4A6D-8E0A-D138BC53845D}
+    {945776A1-8F30-4749-A668-4FCC434A60ED}
+    {0E00B26F-4E11-4536-B814-1F0D72A4C058}
+    {50B36874-8C4E-4958-9DD6-8B95C6AFD09A}
+    {09BE0A81-23F2-4A4F-A042-7DD0003C2D0C}
+    {A563BE98-85FA-4DD5-94BD-9D9C937799F6}
+    {7CB831E8-C889-4193-B822-A1131CB0B755}
+    {C78595D2-0892-4EC6-9FF8-B71EDBF17861}
+    {E7B031D3-161F-4391-8B23-785FC8445D1E}
+    {3332F59B-F5F3-44DF-B66E-2811C31AEB3C}
+    {EAD21DA1-10F6-45C6-A0D5-55AAF09FB743}
+    {241A1B8E-E69A-4E07-B5E4-53975371AD3C}
+    {EB2E4FFD-2761-4653-B052-26A64D385227}
+    {913E30C7-63C2-4A2B-9D44-B2ADAEED6BC2}
+    {FC274B80-2EF2-4B05-89D4-22FCB1E9CC9C}
+    {6D0AAE4A-C2D1-4F3A-8285-705D13DE8244}
+    {241A1B8E-E69A-4E07-B5E4-53975371AD3C}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20250212T175033Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\dylan.young@velir.com
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "1d7aed9f-ddff-414d-a24c-d46da1185efd"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\minyie.diaz@velir.com
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20250326T165928Z
