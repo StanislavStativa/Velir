@@ -3,7 +3,14 @@
  */
 import React from 'react';
 import Head from 'next/head';
-import { Placeholder, LayoutServiceData, Field, HTMLLink } from '@sitecore-jss/sitecore-jss-nextjs';
+import {
+  Placeholder,
+  LayoutServiceData,
+  Field,
+  HTMLLink,
+  DesignLibrary,
+  RenderingType,
+} from '@sitecore-jss/sitecore-jss-nextjs';
 import config from 'temp/config';
 import Scripts from 'src/Scripts';
 import { SpeedInsights } from '@vercel/speed-insights/next';
@@ -77,17 +84,23 @@ const Layout = ({ layoutData, headLinks }: LayoutProps): JSX.Element => {
           disableTransitionOnChange
         >
           <div className={classNamesMain}>
-            {route && <Placeholder name="headless-header" rendering={route} />}
-            <main>
-              <div id="content" className="antialiased">
-                {route && <Placeholder name="headless-main" rendering={route} />}
-              </div>
-            </main>
-            <footer>
-              <div id="footer">
-                {route && <Placeholder name="headless-footer" rendering={route} />}
-              </div>
-            </footer>
+            {layoutData.sitecore.context.renderingType === RenderingType.Component ? (
+              <DesignLibrary {...layoutData} />
+            ) : (
+              <>
+                {route && <Placeholder name="headless-header" rendering={route} />}
+                <main>
+                  <div id="content" className="antialiased">
+                    {route && <Placeholder name="headless-main" rendering={route} />}
+                  </div>
+                </main>
+                <footer>
+                  <div id="footer">
+                    {route && <Placeholder name="headless-footer" rendering={route} />}
+                  </div>
+                </footer>
+              </>
+            )}
           </div>
         </ThemeProvider>
       </VideoProvider>
