@@ -15,6 +15,8 @@ import { useSitecoreContext } from '@sitecore-jss/sitecore-jss-nextjs';
 
 export const Default: React.FC<MultiPromoProps> = (props) => {
   const { fields, params } = props;
+
+  console.log('MultiPromo props', props);
   const { numColumns } = params ?? {};
   const { children } = fields?.data?.datasource ?? {};
   const { title, description } = fields?.data?.datasource;
